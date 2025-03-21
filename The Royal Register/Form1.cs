@@ -15,7 +15,7 @@ namespace The_Royal_Register
 {
     public partial class Form1 : Form
     {
-        private string connectionString = @"Server=localhost\SQLEXPRESS03;Database=RoyalRegister;Trusted_Connection=True;Encrypt=False";
+        private string connectionString = @"Add_your_ConnectionString_here"; //Update this to your own connection string.
 
         public Form1()
         {
